@@ -2,6 +2,11 @@
 
 Retro Tetris is a classic Tetris game implemented in Python using the Pygame library. The game features a retro style and simple controls, and it includes a main menu, settings, and in-game pause and exit functionality.
 
+## In Development:
+
+- Score board
+- Piece preview
+
 ## Features
 
 - Full-screen gameplay
